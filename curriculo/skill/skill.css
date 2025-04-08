@@ -8,6 +8,14 @@ body{
     
     }
 
+.voltar{
+
+color: rgb(104, 255, 3);
+text-decoration:none;
+
+    
+}
+
     div{
 
         justify-self: center;

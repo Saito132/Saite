@@ -1,1 +1,69 @@
+body{
 
+background-color: black;
+color: rgb(104, 255, 3);
+font-family: Tahoma;
+
+
+}
+
+.alinhaimagem{
+
+    justify-self: center;
+
+}
+
+
+
+img{
+
+height: 200px;
+width: 300px;
+border-radius: 20px;
+
+}
+
+img:active{
+
+    content:url(walter.jpg);
+    
+    }
+
+.titulo {
+
+        
+    font-size: 400%;
+    justify-self: center;
+    
+
+}
+
+
+.info{
+
+justify-self: start;
+margin-left: 10px;
+margin-right: 50px;
+font-size: 40px;
+text-shadow: 3px 2px rgb(21, 49, 3);
+}
+
+.exp{
+
+justify-self: center;
+transform: translateY(-46px);
+font-size: 40px;
+text-shadow: 3px 2px rgb(21, 49, 3);
+}
+
+.skills{
+
+
+justify-self: end;
+margin-right: 10px;
+margin-left: 50px;
+transform: translateY(-94px);
+font-size: 40px;
+text-shadow: 3px 2px rgb(21, 49, 3);
+
+}
